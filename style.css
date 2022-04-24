@@ -1,3 +1,6 @@
+/*****************************
+*           Body
+*****************************/
 body{
   font: "Raleway", sans-serif;
   color: rgba(0, 0, 0, .5);
@@ -8,6 +11,9 @@ body{
   background: linear-gradient(to right, red, yellow); /* Standard syntax */
 }
 
+/*****************************
+*           Content
+*****************************/
 h1{
   font: 600 3.5em "Raleway", sans-serif;
   color: rgba(0, 0, 0, .5);
@@ -29,6 +35,9 @@ h3{
   cursor: pointer;
 }
 
+/*****************************
+*         Footer
+*****************************/
 footer{
   position: fixed;
   left: 0px;
